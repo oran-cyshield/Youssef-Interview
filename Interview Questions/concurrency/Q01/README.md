@@ -1,0 +1,1 @@
+Task: Complete main() to launch two threads that executes thread_function
